@@ -38,3 +38,11 @@ https://stackshare.io/
 http://www.manifestoagil.com.br/
 
 https://slack.com/
+
+https://telegram.org/
+
+https://firebase.google.com
+
+https://github.com/nvie/gitflow
+
+
