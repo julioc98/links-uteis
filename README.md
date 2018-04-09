@@ -1,9 +1,9 @@
 # links-uteis
-Uma lista de links com ferramentas e artigos uteis no dia  a dia
-
-https://www.heroku.com/
+Uma lista de links com ferramentas e artigos uteis no dia a dia
 
 https://onebitcode.com/ferramentas-programador/
+
+https://www.heroku.com/
 
 http://www.layoutit.com/
 
@@ -44,5 +44,18 @@ https://telegram.org/
 https://firebase.google.com
 
 https://github.com/nvie/gitflow
+
+https://thunkable.com
+
+http://appinventor.mit.edu
+
+https://onesignal.com
+
+https://waffle.io/
+
+
+
+
+
 
 
